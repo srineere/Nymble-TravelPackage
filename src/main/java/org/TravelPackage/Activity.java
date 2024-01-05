@@ -32,6 +32,7 @@ public class Activity {
         return capacity;
     }
 
+    // setting the destination for once
     public void setDestination(Destination destination){
         if(this.destination == null ){
             this.destination = destination;
@@ -40,7 +41,6 @@ public class Activity {
         }
     }
 
-    // setting the destination for once
     public Destination getDestination(){
         return destination;
     }
