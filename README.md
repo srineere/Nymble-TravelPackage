@@ -4,6 +4,13 @@
 
 This project is part of Nymble's Software Design Task. The Java project implements a Travel Agency Management System. It allows travel agencies to maintain their travel packages' itinerary and passengers.
 
+
+## Requirements
+
+- High-Level Diagram ![High Level Diagram](https://raw.githubusercontent.com/srineere/Nymble-TravelPackage/main/HighLevelDiagram.png)
+- Low-Level Diagram ![Low Level Diagram](https://raw.githubusercontent.com/srineere/Nymble-TravelPackage/main/LowLevelDiagram.png)
+- Source Code (You can look at this repo for the entire source code)
+
 ## Project Structure
 
 The project consists of the following main classes:
@@ -12,6 +19,7 @@ The project consists of the following main classes:
 - `Destination`: Represents a destination with a name and a list of activities available.
 - `Activity`: Represents an activity with a name, description, cost, and capacity. Each activity is available at one destination.
 - `Passenger`: Represents a passenger with a name, passenger number, and membership type (standard, gold, premium).
+
 
 ## How to Run
 
